@@ -1,6 +1,6 @@
 # Loan Status Prediction
 
-![Loan Status Prediction UI Screenshot](image1)
+![Loan Status Prediction UI Screenshot](image.png)
 
 A simple, easy-to-use machine learning project that predicts whether a loan application will be approved or not based on applicant features. This repository contains the code, model, and a lightweight web UI for entering applicant details and getting a prediction.
 
